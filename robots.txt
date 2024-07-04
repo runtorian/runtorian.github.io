@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://runtorian.github.io/sitemap
+Sitemap: https://runtorian.github.io/app/sitemap
+Sitemap: https://runtorian.github.io/assets/sitemap
+Sitemap: https://runtorian.github.io/css/sitemap
+Sitemap: https://runtorian.github.io/includes/sitemap
+Sitemap: https://runtorian.github.io/item/sitemap
+Sitemap: https://runtorian.github.io/src/sitemap
